@@ -19,7 +19,7 @@ Uno script Python per estrarre le date degli esami di Cybersecurity dal sistema 
 
 1. Clona il repository:
 ```bash
-git clone https://github.com/colui77/esse3-cybersecurity-scraper.git
+git clone https://github.com/colui77/UtilityEsse3.git
 cd esse3-cybersecurity-scraper
 ```
 

@@ -1,6 +1,6 @@
 # Esse3 Cybersecurity Exam Scraper
 
-Uno script Python per estrarre le date degli esami di Cybersecurity dal sistema Esse3 dell'Università Parthenope, organizzando i dati per docente e mese.
+Uno script Python per estrarre dall'Esse3 dell'Università Parthenope report con tutte le date per gli esami dei corsi di studio afferenti alle scuole dell'Ateneo, organizzando i dati per docente e mese.
 
 ## Caratteristiche
 

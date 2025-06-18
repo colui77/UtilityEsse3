@@ -23,7 +23,13 @@ git clone https://github.com/colui77/UtilityEsse3.git
 cd UtilityEsse3
 ```
 
-2. Installa le dipendenze:
+2. Crea un virtual environment:
+```bash
+python3 -m venv venv
+source venv/bin/activate && pip install --upgrade pip
+```
+
+3. Installa le dipendenze:
 ```bash
 pip install -r requirements.txt
 ```

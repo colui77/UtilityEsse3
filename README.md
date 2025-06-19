@@ -1,6 +1,6 @@
 # Esse3 Parthenope University Exam Scraper
 
-Uno tool, implementato come script Python, utile per estrarre dall'Esse3 dell'Università Parthenope dei report con tutte le date per gli esami dei corsi di studio afferenti alle Scuole dell'Ateneo. I dati sono organizzati per docente e mese.
+Un tool, implementato come script Python, utile per estrarre dall'Esse3 dell'Università Parthenope dei report con tutte le date per gli esami dei corsi di studio afferenti alle Scuole dell'Ateneo. I dati sono organizzati per docente e mese.
 
 ## Caratteristiche
 

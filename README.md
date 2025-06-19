@@ -105,4 +105,4 @@ Il report finale contiene:
 
 MIT License
 
-**UtilityEsse3** è uno strumento di automazione web sviluppato specificamente per l'Università Parthenope che consente di estrarre automaticamente dal portale Esse3 i calendari degli esami di tutti i corsi di studio dell'Ateneo. Il sistema organizza intelligentemente i dati raccolti per docente e periodo temporale, generando report strutturati e facilmente consultabili per l'analisi delle sessioni d'esame.
+
